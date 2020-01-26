@@ -1,7 +1,7 @@
 # mozark_pcap_analysis
 
 ### Data and Files Required
-- tshark_extract_fields.sh (available as gist on github)
+- tshark_extract_fields.sh: https://gist.github.com/shahifaqeer/eff11a51bf8e8b77557564006f70c36c
 - News App Data folder containing tcpdump files
 - testing_results_pcap_id.csv
 

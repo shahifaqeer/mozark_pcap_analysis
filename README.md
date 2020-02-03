@@ -72,11 +72,6 @@
 - Security: cipher text DHE or old (server choice)
 - (max, avg, perc) TLS HANDSHAKE TIME
 
-## WATERFALL PLOT
-
-#### Extract timings
-#### Merge DNS and TCP timings based on server name
-
 #### HTTP
 - 200, 300, 400+ response counts
 - data download HTTP vs time
@@ -86,5 +81,8 @@
 - (max, avg, perc) TTFB
 - (max, avg, perc) DATA DOWNLOAD
 
-#### TIMING
-- TODO
+
+## WATERFALL PLOT
+
+#### Extract timings
+#### Merge DNS and TCP timings based on server name

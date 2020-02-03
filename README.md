@@ -1,7 +1,7 @@
 # mozark_pcap_analysis
 
 ### Data and Files Required
-- tshark_extract_fields.sh: https://gist.github.com/shahifaqeer/eff11a51bf8e8b77557564006f70c36c
+- tshark_extract_fields.sh
 - News App Data folder containing tcpdump files
 - testing_results_pcap_id.csv
 
@@ -71,6 +71,11 @@
 - TLS reused
 - Security: cipher text DHE or old (server choice)
 - (max, avg, perc) TLS HANDSHAKE TIME
+
+## WATERFALL PLOT
+
+#### Extract timings
+#### Merge DNS and TCP timings based on server name
 
 #### HTTP
 - 200, 300, 400+ response counts
